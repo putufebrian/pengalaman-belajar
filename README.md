@@ -16,3 +16,9 @@ NOR Gate (Gerbang NOR): Mirip dengan OR Gate, tetapi keluarannya dibalik. Jadi, 
 XOR Gate (Gerbang XOR): Gerbang ini menghasilkan keluaran TRUE jika jumlah masukan yang bernilai TRUE adalah ganjil. Contohnya, jika salah satu masukan adalah TRUE dan yang lainnya adalah FALSE, maka keluaran adalah TRUE; tetapi jika kedua masukan adalah TRUE atau kedua masukan adalah FALSE, maka keluaran adalah FALSE.
 
 Contoh penggunaan gerbang logika dalam pemrograman adalah dalam membuat keputusan berdasarkan kondisi-kondisi tertentu. Misalnya, dalam sebuah program, kita dapat menggunakan gerbang logika untuk menentukan apakah sebuah tindakan akan dijalankan atau tidak berdasarkan beberapa kondisi yang harus dipenuhi.
+
+15 Februari 2024
+Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
+* Belajar dasar-dasar Java, seperti struktur dasar, tipe data, string, operator, input output, dan array.
+* Belajar control flow dalam Java, seperti perulangan dan percabangan.
+* Belajar tipe data koleksi, seperti list, set, dan map.
